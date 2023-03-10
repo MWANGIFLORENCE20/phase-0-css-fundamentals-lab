@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+#featured-property {
+  text-align: center;
+}
+.Teddy {
+  padding: 10px;
+  background-color: grey;
+}
+#details {
+  float: left;
+}
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+#featured-property, p {
+  text-align: center;
+  font-size: small;
+}
+#details {
+  float: left;
+  background-color: red;
+}
+div {
+  float: left;
+  padding-left: 100px;
+  padding-right: 100px;
+  display: inline-table;
+}
